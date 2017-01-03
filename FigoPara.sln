@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigoPara.API", "FigoPara.API\FigoPara.API.csproj", "{056FDFB8-6CDB-4F81-9E49-E9933FBBE355}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigoPara.DAL", "FigoPara.DAL\FigoPara.DAL.csproj", "{3B0A0019-9379-431E-B087-C5199E23C3D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigoPara.BLL", "FigoPara.BLL\FigoPara.BLL.csproj", "{C900E55D-F445-42B3-95BB-D8420C137679}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigoPara.DTO", "FigoPara.DTO\FigoPara.DTO.csproj", "{2E3CDB85-605F-4DF2-B9CC-F139A838AF4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigoPara.Utility", "FigoPara.Utility\FigoPara.Utility.csproj", "{BDCABB47-0AAC-4D04-AB9E-725DF521AB30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigoPara.ExternalAPI", "FigoPara.ExternalAPI\FigoPara.ExternalAPI.csproj", "{2DCD0327-2943-4EAC-A936-D9BDD7FEADA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{056FDFB8-6CDB-4F81-9E49-E9933FBBE355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{056FDFB8-6CDB-4F81-9E49-E9933FBBE355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{056FDFB8-6CDB-4F81-9E49-E9933FBBE355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{056FDFB8-6CDB-4F81-9E49-E9933FBBE355}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B0A0019-9379-431E-B087-C5199E23C3D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B0A0019-9379-431E-B087-C5199E23C3D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B0A0019-9379-431E-B087-C5199E23C3D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B0A0019-9379-431E-B087-C5199E23C3D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C900E55D-F445-42B3-95BB-D8420C137679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C900E55D-F445-42B3-95BB-D8420C137679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C900E55D-F445-42B3-95BB-D8420C137679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C900E55D-F445-42B3-95BB-D8420C137679}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E3CDB85-605F-4DF2-B9CC-F139A838AF4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E3CDB85-605F-4DF2-B9CC-F139A838AF4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E3CDB85-605F-4DF2-B9CC-F139A838AF4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E3CDB85-605F-4DF2-B9CC-F139A838AF4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDCABB47-0AAC-4D04-AB9E-725DF521AB30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDCABB47-0AAC-4D04-AB9E-725DF521AB30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDCABB47-0AAC-4D04-AB9E-725DF521AB30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDCABB47-0AAC-4D04-AB9E-725DF521AB30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DCD0327-2943-4EAC-A936-D9BDD7FEADA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DCD0327-2943-4EAC-A936-D9BDD7FEADA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DCD0327-2943-4EAC-A936-D9BDD7FEADA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DCD0327-2943-4EAC-A936-D9BDD7FEADA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
